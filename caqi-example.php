@@ -3,6 +3,7 @@
 //In order to get the final result, you have to calculate it's value
 //for chosen pollutants and choose the worst (highest one)
 //More info: http://www.airqualitynow.eu/about_indices_definition.php
+
 //Function to calculate CAQI index for given pollutant concentration
 function caqi($measurement, $pollutant)
 {
